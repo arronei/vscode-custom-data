@@ -5212,10 +5212,9 @@
             "name": "color-interpolation",
             "restriction": "enum",
             "version": "3.0",
-            "browsers": "none",
-            "ref": "http://www.w3.org/TR/SVG2/painting.html#ColorInterpolationProperty"
+            "ref": "https://w3c.github.io/svgwg/svg2-draft/painting.html#ColorInterpolationProperty"
           },
-          "desc": "Specifies the color space for gradient interpolations, color animations and alpha compositing.",
+          "desc": "Specifies the color space for gradient interpolations and color animations.",
           "values": {
             "value": [
               {
